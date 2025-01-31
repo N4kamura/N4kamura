@@ -21,7 +21,7 @@ Currently I am working in the Metropolitan Municipality of Lima as a urban traff
 - Automated reports.
 - Time-space diagrams.
 
-#### IA / Open-CV Projects:
+#### AI / Open-CV Projects:
 - Artificial intelligence for vehicle counting and classification.
 - Detection of areas with high traffic on Google Maps.
 
